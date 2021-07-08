@@ -1,2 +1,4 @@
 Hi
 my firt one
+
+before merge
